@@ -58,12 +58,12 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--branco);
     border-radius: 30px;
     border: none;
-    width: 14em;
+    width: 20em;
     /* Convertido para em aumenta o tamanho da fonte por tabela*/
-    height: 3em;
+    height: 4em;
     /* Convertido para em */
     align-content: center;
 
