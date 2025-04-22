@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #6596f1;
+    --laranja-claro: #000000;
 }
 
 body {
@@ -15,7 +15,7 @@ header {
 }
 
 
-section {
+section { 
     padding-bottom: 5rem;
 }
 
