@@ -2,17 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #fff4eb;
+    --laranja-claro: #FF862A;
 }
 
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
-    background-color: #ffefe1;
 }
 
 header {
-    background-color: #fcf3e7ec;
+    background-color: #ffffff;
 }
 
 
@@ -22,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #fde6b4;
+    color: #CB6D43;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/m7.png');
+    background-image: url('img/4965007.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -58,19 +57,19 @@ section {
 
 
 .botao-inicio {
-    background-color: #fddb93;
+    background-color: var(--laranja-claro);
     border-radius: 30px;
     border: none;
-    width: 20em;
+    width: 14em;
     /* Convertido para em aumenta o tamanho da fonte por tabela*/
-    height: 4em;
+    height: 3em;
     /* Convertido para em */
     align-content: center;
 
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--branco);
+    text-shadow: -5px 5px var(--laranja-claro);
 }
 
 
@@ -132,7 +131,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #ffffff;
+    background-color: #CB6D43;
     border: none;
     font-weight: bold;
 }
