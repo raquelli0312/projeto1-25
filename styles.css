@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #4379cb;
     font-weight: 600;
 }
 
@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: #4379cb;
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -70,7 +70,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px #4379cb;
 }
 
 
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #4379cb;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #ffffff;
 }
 .menu-acessibilidade{
     position: fixed;
