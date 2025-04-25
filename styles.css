@@ -83,6 +83,7 @@ section {
         url('img/m16-removebg-preview.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
+    text-align: center;
 }
 
 #tropicalia .container {
